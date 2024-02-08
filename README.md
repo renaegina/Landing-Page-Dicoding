@@ -1,6 +1,6 @@
 # Simple Landing Page Dicoding Indonesia
 
-<p align="center"><img src="Img/Output.png" alt="Output"></a></p>
+<p align="center"><img src="img/Output.png" alt="Output"></a></p>
 
 ## Features
 
